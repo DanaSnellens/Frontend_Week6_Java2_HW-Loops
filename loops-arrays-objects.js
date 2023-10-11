@@ -94,10 +94,6 @@ for (let i = 0; i < NOVIEmployees.length; i++) {
     NOVIEmployees[i].email = NOVIEmployees[i].firstName + "." + NOVIEmployees[i].lastName + "@novi.nl"
 }
 console.log(NOVIEmployees)
-//----------------------------
-// VRAAG van Dana: Waarom worden de gegevens van Nova op 1 regel geprint en de rest op verschillende regels?
-//--------------------------------
-
 
 
 // Opdracht 2-BONUS
